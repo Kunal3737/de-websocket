@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+
+table,
+th,
+td {
+  height: 58px;
+  text-align: center;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+td {
+  background-color: #fafafa;
+}
+
+.mark-price {
+  width: 300px;
+}
+
+.table-header {
+  top: 0;
+  color: #fff;
+  position: sticky;
+  background-color: #000;
+}
